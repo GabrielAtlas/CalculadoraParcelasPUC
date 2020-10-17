@@ -1,0 +1,11 @@
+Parcela 1 - R$ 111.00
+Parcela 2 - R$ 109.90
+Parcela 3 - R$ 108.80
+Parcela 4 - R$ 107.70
+Parcela 5 - R$ 106.60
+Parcela 6 - R$ 105.50
+Parcela 7 - R$ 104.40
+Parcela 8 - R$ 103.30
+Parcela 9 - R$ 102.20
+Parcela 10 - R$ 101.10
+Valor total pago R$ 1060.50

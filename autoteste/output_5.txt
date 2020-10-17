@@ -1,0 +1,1 @@
+O valor do emprestimo deve ser > R$ 1000,00
